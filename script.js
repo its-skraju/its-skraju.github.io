@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 
     var typed = new Typed(".typing", {
-        strings: ["Sk Raju", "a Data Analyst"],
+        strings: ["Sk Raju", "a Data Scientist"],
         typeSpeed: 100,
         backSpeed: 100,
         loop: true
